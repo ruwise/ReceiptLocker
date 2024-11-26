@@ -1,5 +1,5 @@
 # Receipt Locker
-#### Video Demo:  https://youtu.be/xVkqW8z4IjI
+#### Video Demo:  https://youtu.be/
 #### Description:
 This is an application which can be used for storing and retrieving receipts. 
 

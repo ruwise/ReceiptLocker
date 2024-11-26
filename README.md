@@ -4,7 +4,7 @@
 This is an application which can be used for storing and retrieving receipts. 
 
 UI of this application is built with Tkinter. 
-First, I tried to create tkinter frames from scratch. I find it very difficult to align each element such as, input fields or buttons or text boxes which are varying in lengths and widths.  Then I start searching for any tool which can help with the design and build tkinter UI. From google searches, I found about a tool, someone named Parth created, which can convert a figma design to tkinter template. Then I designed pages using figma and used the tool to create the frames from the design. 
+I designed pages using figma and used the tool to create the frames from the design. 
 Each frames created kept in different classes and objects of the fame classes are created in main project file. This helped me with changing pages from one to another and loading details to each page.
 
 This application has four pages or frames.

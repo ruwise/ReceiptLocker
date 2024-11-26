@@ -1,0 +1,32 @@
+{
+    "vcMVruOd": {
+        "r_id": "vcMVruOd",
+        "receipt_no": "88945",
+        "vendor_nm": "College of Engineering",
+        "user_name": "Mary M",
+        "date": "06-08-2024",
+        "amount": "2000",
+        "category": "Fees",
+        "image_path": "images\\06-08-2024\\vcMVruOd_cash-receipt-template-.jpg"
+    },
+    "MqINjxS1": {
+        "r_id": "MqINjxS1",
+        "receipt_no": "65487",
+        "vendor_nm": "Medical Supplies Store",
+        "user_name": "Bob Doe",
+        "date": "30-11-2023",
+        "amount": "115",
+        "category": "Medical",
+        "image_path": "images\\30-11-2023\\MqINjxS1_SAMPLE-Cash-Payment-Receipt.png"
+    },
+    "MOlGyWGi": {
+        "r_id": "MOlGyWGi",
+        "receipt_no": "1234567",
+        "vendor_nm": "TechWave Solutions",
+        "user_name": "Sarah Johnson",
+        "date": "27-10-2023",
+        "amount": "264",
+        "category": "Others",
+        "image_path": "images\\27-10-2023\\MOlGyWGi_payment-receipt-template.png"
+    }
+}
